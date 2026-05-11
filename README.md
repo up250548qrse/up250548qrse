@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Said Emanuel Quiroz Reyes 👋
+## Pero todos me dicen **Quiroz**
 
-<!--
-**up250548qrse/up250548qrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Actualmente soy estudiante de ingeniería en la **Universidad Politécnica de Aguascalientes (UPA)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Educación y Enfoque
+- 🏫 **Carrera:** Ingeniería en Tecnologías de la Información e Innovación Digital (**TIID** / Sistemas).
+- 📈 **Progreso:** Cursando actualmente el **2do Cuatrimestre**.
+- 📍 **Ubicación:** Aguascalientes, México. 🇲🇽
+
+### 🚀 Sobre mí
+- 🌱 Estoy fortaleciendo mis bases en **Lógica de Programación** y **Algoritmos**.
+- 🛠️ En la universidad estamos explorando tecnologías clave para la innovación digital.
+- 👨‍💻 Me apasiona aprender cómo la tecnología puede resolver problemas reales.
+
+---
